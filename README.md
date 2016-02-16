@@ -1,2 +1,4 @@
-# algorithms
- Implementation of common algoritms in Java
+#Algorithms
+
+Implementation of common algoritms in Java
+
