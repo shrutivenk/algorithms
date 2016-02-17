@@ -1,5 +1,8 @@
+package tests;
+
 import org.junit.Before;
 import org.junit.Test;
+import recursion.StringPermutate;
 
 import java.util.ArrayList;
 
